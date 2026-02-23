@@ -43,5 +43,4 @@ Animated hamburger menu
 Desktop optimized
 
 Tablet optimized
-
-Mobile optimized
+ 
