@@ -1,46 +1,73 @@
-# moments-cinematic
-📸 MomentsCinematic – Photography Portfolio Website
+# MomentsCinematic – Photography Portfolio Website
 
 A modern, premium, cinematic photography portfolio website designed for professional photographers. MomentsCinematic showcases photography work with elegant galleries, smooth animations, and a fully responsive dark luxury theme.
 
-🌐 Live Demo
+## 🌟 Live Demo
+Experience the cinematic feel of our portfolio.
 
-Instagram: https://www.instagram.com/momentscinematic
+**Instagram:** [momentscinematic](https://www.instagram.com/momentscinematic)
 
-✨ Features
-🎬 Modern Cinematic Design
+---
 
-Dark luxury theme (Black, Gold, White)
+## ✨ Features
 
-Premium typography (Poppins & Playfair Display)
+### 🎬 Modern Cinematic Design
+- **Dark Luxury Theme:** Black, Gold, White color palette.
+- **Premium Typography:** Poppins & Playfair Display fonts.
+- **Glassmorphism:** Elegant blur effects on navigation and cards.
+- **Professional Layout:** Clean and structured for high-end impact.
 
-Glassmorphism effects
+### 🎞️ Advanced Animations
+- **Smooth Scroll Reveal:** Content appears as you scroll.
+- **Hero Slideshow:** Cinematic fullscreen background transitions.
+- **Navbar Animation:** Slides down and changes style on scroll.
+- **Glow Effects:** Premium hover states on buttons and cards.
+- **Lightbox Gallery:** Animated image preview for a closer look.
 
-Professional layout
+### 📱 Fully Responsive
+- Optimized for Desktop, Tablet, and Mobile devices.
+- Cross-browser compatible (Chrome, Safari, Firefox, Edge).
 
-🎞️ Advanced Animations
+---
 
-Smooth scroll reveal animations
+## 📂 Project Structure
+```
+MomentsCinematic/
+│
+├── index.html      # Main HTML file (Structure & Content)
+├── style.css       # Styling, Theme & Animations
+├── script.js       # Core logic, Slideshow, Filter, Lightbox
+├── images/         # Placeholders (Replace with high-res work)
+└── README.md       # Project documentation
+```
 
-Hero section slideshow animation
+---
 
-Navbar slide-down animation
+## 🧰 Technologies Used
+- **HTML5:** Semantic structure.
+- **CSS3:** Flexbox, Grid, Keyframes, and Vanilla styling.
+- **JavaScript (Vanilla JS):** No external frameworks for maximum performance.
+- **Intersection Observer API:** For scroll-driven animations.
+- **Google Fonts & Font Awesome:** Premium typography and industry-standard icons.
 
-Button hover glow effects
+---
 
-Image hover zoom effects
+## 🖥️ Website Sections
+1. **Hero Section:** Fullscreen cinematic slideshow with animated intro text.
+2. **About:** Introduction to the photographer with skill progress indicators.
+3. **Portfolio:** Categorized gallery (Weddings, Portraits, etc.) with filtering and lightboxes.
+4. **Services:** Detailed cards for photography and videography offerings.
+5. **Contact:** Professional form with floating labels and contact details.
+6. **Footer:** Elegant branding and social media integration.
 
-Lightbox gallery animation
+---
 
-Card hover lift animation
+## ⚡ Setup & Usage
+1. Clone or download this repository.
+2. Replace placeholder images in `index.html` (or add them to `/images/`) with your own high-quality work.
+3. Open `index.html` in any modern web browser to view the site.
 
-Loading animation
+---
 
-Animated hamburger menu
-
-📱 Fully Responsive
-
-Desktop optimized
-
-Tablet optimized
- 
+**MomentsCinematic** - *Capturing the Cinematic Essence of Life.*
+Created by Vivek B. Rathod.
