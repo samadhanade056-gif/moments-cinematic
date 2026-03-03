@@ -61,8 +61,7 @@ MomentsCinematic/
 6. **Footer:** Elegant branding and social media integration.
 
 ---
-
-## ⚡ Setup & Usage
+ ⚡ Setup & Usage
 1. Clone or download this repository.
 2. Replace placeholder images in `index.html` (or add them to `/images/`) with your own high-quality work.
 3. Open `index.html` in any modern web browser to view the site.
@@ -71,4 +70,5 @@ MomentsCinematic/
 
 **MomentsCinematic** - *Capturing the Cinematic Essence of Life.*
 Created by Vivek B. Rathod.
+
 
