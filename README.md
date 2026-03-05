@@ -9,7 +9,7 @@ Experience the cinematic feel of our portfolio.
 
 ---
 
-##  Features
+ 
 
 ### 🎬 Modern Cinematic Design
 - **Dark Luxury Theme:** Black, Gold, White color palette.
@@ -70,5 +70,6 @@ MomentsCinematic/
 
 **MomentsCinematic** - *Capturing the Cinematic Essence of Life.*
 Created by Vivek B. Rathod.
+
 
 
